@@ -1,5 +1,5 @@
 const Profile = props => {
-    // console.log(name);
+    
   return (
     <div>
       <div>
