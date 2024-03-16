@@ -1,0 +1,28 @@
+.transaction {
+  width: 600px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 50px;
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+.trans-head-item {
+  width: 200px;
+  background-color: lightslategrey;
+  border: 2px solid black;
+  color: white;
+}
+
+.trans-body-item-tr {
+  border: 1px solid black;
+  text-align: center;
+}
+
+.trans-body-item-tr:nth-child(2n + 2) {
+  background-color: lavender;
+}
+
+.trans-body-item-td {
+  border: 1px solid black;
+}

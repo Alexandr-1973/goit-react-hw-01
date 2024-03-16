@@ -1,0 +1,19 @@
+.friend-list-item {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid black;
+  border-radius: 8px;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 30px;
+  gap: 20px;
+  background-color: lavender;
+}
+
+.online-green {
+  color: green;
+}
+
+.offline-red {
+  color: red;
+}
