@@ -1,7 +1,8 @@
-import './App.css';
+// import './App.css';
+// import css from "./App.module.css"
 import userData from '../userData.json';
-import friends from '../friends.json';
-import transactions from '../transactions.json';
+// import friends from '../friends.json';
+// import transactions from '../transactions.json';
 import Profile from '../profile/Profile';
 
 
